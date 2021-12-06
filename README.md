@@ -14,7 +14,7 @@ Open EmptyStartfile.m, fill in the relevant fields and press play.
 
 **N.B. make sure that all data to be preprocessed contains AT LEAST the following components and follows the directory-tree structure specified below:**
 
-EPI-data, t1-matched data (t1 scanned in the same resolution/FOV/orientation as the EPI, and a high-resolution anatomical dataset that can be in any orientation.
+EPI-data, t1-matched data (t1 scanned in the same resolution/FOV/orientation as the EPI), and a high-resolution anatomical dataset that can be in any orientation.
 
 ProjectDirectory/Participant/Session/datafiles_as_Stated_Above
 
