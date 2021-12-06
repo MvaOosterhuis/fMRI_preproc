@@ -1,6 +1,6 @@
 # fMRI_preproc
 
-fMRI EPI preprocessing pipeline which computes and applies a set of transformation using AFNI such that the EPI dataset ends up living in the space of a high-resolution anatomical dataset, imports that transformed dataset into a mrVistaSession which is ready to use with the vistalab vistasoft software. This package also contains novel existing code that was (slightly) modified to fit the current pipeline.
+fMRI EPI preprocessing pipeline which uses AFNI to compute and apply a set of transformations such that the EPI dataset ends up living in the space of a high-resolution anatomical dataset, imports that transformed dataset into a mrVistaSession which is ready to use with the vistalab vistasoft software. This package also contains novel existing code that was (slightly) modified to fit the current pipeline.
 
 **Existing codebase used in this project include:**
 
